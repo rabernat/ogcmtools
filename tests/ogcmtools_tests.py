@@ -1,5 +1,5 @@
 from nose.tools import *
-import mypackage
+import ogcmtools
 
 def setup():
     print "SETUP!"

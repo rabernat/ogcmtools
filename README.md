@@ -1,3 +1,4 @@
-# A Basic Template for Python Packages #
+# ogcmtools #
+## General purpose analysis package for ocean general circulation models ##
 
-[ http://learnpythonthehardway.org/book/ex46.html ]
+

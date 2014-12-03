@@ -4,16 +4,16 @@ except ImportError:
     from distutils.core import setup
 
 config = {
-    'description': 'My Project',
-    'author': 'My Name',
-    'url': 'URL to get it at.',
-    'download_url': 'Where to download it.',
-    'author_email': 'My email.',
+    'description': 'Ocean GCM Tools',
+    'author': 'Ryan Abernathey',
+    'url': 'https://github.com/rabernat/ogcmtools',
+    'download_url': 'https://github.com/rabernat/ogcmtools',
+    'author_email': 'rpa@ldeo.columbia.edu',
     'version': '0.1',
     'install_requires': ['nose'],
-    'packages': ['mypackage'],
+    'packages': ['ogcmtools'],
     'scripts': [],
-    'name': 'projectname'
+    'name': 'ogcmtools'
 }
 
 setup(**config)
