@@ -1,0 +1,6 @@
+*.pyc
+*.gz
+*.bz2
+*.ipynb_checkpoints*
+*.egg-info*
+*.so
